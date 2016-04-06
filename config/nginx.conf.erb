@@ -44,7 +44,7 @@ http {
 
 		location /blog {
 			proxy_set_header X-Forwarded-For $remote_addr;
-			proxy_set_header Host $http_host;
+			proxy_set_header Host http://jb-blog-site.herokuapp.com;;
 			proxy_redirect off;
 			proxy_pass http://jb-blog-site.herokuapp.com;
 		}
