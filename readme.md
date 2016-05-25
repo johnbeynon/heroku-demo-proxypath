@@ -6,7 +6,9 @@ Scenario:
 * http://jb-marketing-site.herokuapp.com/
 * http://jb-blog-site.herokuapp.com/
 
-You want the blog site to be accessible under the primary app.
+You want the blog site to be accessible under the primary app ie:
+
+http://jb-marketing-site.herokuapp.com/blog
 
 Here's how...
 
