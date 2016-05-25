@@ -12,5 +12,7 @@ http://jb-marketing-site.herokuapp.com/blog
 
 Here's how...
 
+Use the NGinx buildpack - https://github.com/ryandotsmith/nginx-buildpack.git
+
 The magic happens
 [here](https://github.com/johnbeynon/heroku-demo-proxypath/blob/master/config/nginx.conf.erb#L45)
